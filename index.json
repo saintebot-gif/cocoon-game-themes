@@ -12,6 +12,10 @@
     {
       "game": "Ace Attorney Trilogy",
       "file": "jingles/Ace Attorney Trilogy.mp3"
+    },
+    {
+      "game": "Pokemon Ultra Moon",
+      "file": "jingles/Ultra Moon.mp3"
     }
   ]
 }
