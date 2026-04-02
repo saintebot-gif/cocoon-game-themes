@@ -2,12 +2,16 @@
   "name": "Example Jingle Pack",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Pokemon Ultra Sun",
+      "file": "jingles/Ultra Sun.mp3"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "game": "Halo",
+      "file": "jingles/Halo.mp3"
+    },
+    {
+      "game": "Ace Attorney Trilogy",
+      "file": "jingles/Ace Attorney Trilogy.mp3"
     }
   ]
 }
